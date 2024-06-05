@@ -31,7 +31,8 @@ In order to use X-Detect's full capabilities, please perform the following steps
 1. Download the object detection models from the following link and store the models under the project's root folder: https://drive.google.com/file/d/1GH03Gx4vD6aVyHQd3Ekkk_SAyF8x7Z9m/view?usp=sharing
 2. Download the evaluation set (adversarial scenes and videos that used to evaluate X-Detect) from the following link and store the evaluation set under the project's root folder:  https://drive.google.com/file/d/1v-1p6ghKnSz83h4zP9oWwBwiFFeA1_Ah/view?usp=sharing
 3. Download the data util (MS COCO annotations file, MS COCO prototypes and Superstore prototypes) from https://drive.google.com/file/d/1rWUfUq_0CskTG796rEE9mc78otcHfJVK/view?usp=sharing
-4. Please use the following files tree to store the downloaded directories in the correct location: 
+4. You can also access the SuperStore dataset, utilized for training our models on super store products within a smart shopping cart setup, by visiting the following link: https://tinyurl.com/SuperStore-Data.
+5. Please use the following files tree to store the downloaded directories in the correct location: 
 
 ![Alt text](samples_for_readme/files_tree.PNG?raw=true "Title")
 
